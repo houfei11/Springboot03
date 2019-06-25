@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @MapperScan("com.example.dao")
 public class BootDemoZscgApplication {
 
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
         SpringApplication.run(BootDemoZscgApplication.class, args);
     }
 
